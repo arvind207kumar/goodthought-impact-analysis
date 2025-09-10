@@ -1,6 +1,6 @@
 # goodthought-impact-analysis
 
-![ngo_project_image](ngo_project_image.jpg)
+
 # 📊 Impact Analysis of GoodThought NGO Initiatives
 
 I built this project to explore how data can reveal the real-world impact of NGO efforts. Using SQL, I analyzed operations from **GoodThought**, a non-profit focused on education, healthcare, and sustainable development across underserved communities.
