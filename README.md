@@ -2,16 +2,40 @@
 
 ![ngo_project_image](ngo_project_image.jpg)
 
-GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.
+![ngo_project_image](ngo_project_image.jpg)
+# 📊 Impact Analysis of GoodThought NGO Initiatives
 
-This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. In this project, you'll engage with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:
+I built this project to explore how data can reveal the real-world impact of NGO efforts. Using SQL, I analyzed operations from **GoodThought**, a non-profit focused on education, healthcare, and sustainable development across underserved communities.
 
-- **`Assignments`:** Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
-- **`Donations`:** Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
-- **`Donors`:** Information on individuals and organizations that fund GoodThought’s projects, including donor types.
+## 🌍 Project Background
 
-ERD diagram for a visual representation of the relationships between these data tables:
+The dataset spans from **2010 to 2023**, capturing detailed records of:
+
+- **Assignments**: Each project’s name, timeline, region, budget, and impact score
+- **Donations**: How funds were distributed across assignments and donor types
+- **Donors**: Profiles of individuals and organizations supporting the cause
+
+Here's the ERD diagram that maps out the relationships between these tables:  
 <img src="erd.png" alt="ERD" width="50%" height="50%">
 
+## 🔍 What I Did
 
-You will execute SQL queries to answer two questions, as listed in the instructions. Good luck!
+SQL queries to answer two key questions:
+
+1. **Top Donation Assignments**  
+   - Find the top five assignments based on total donation value  
+   - Categorized by donor type  
+   - Output includes assignment name, region, donation amount, and donor type
+
+2. **Top Regional Impact Assignments**  
+   - Identify the highest impact score assignment per region  
+   - Only includes assignments with at least one donation  
+   - Output includes assignment name, region, impact score, and total donations
+
+## 💡 Why It Matters
+
+This project goes beyond technical querying—it's about using data to understand how resources are being used and where they’re making the most difference. It’s a small but meaningful step toward smarter decision-making in the non-profit space.
+
+---
+
+
