@@ -63,4 +63,9 @@ This project goes beyond technical querying—it's about using data to understan
 
 ---
 
+## ❓ Why SQL?
+
+SQL is the backbone of data analysis in most industries. This project showcases how structured queries can uncover meaningful insights from complex datasets—especially in the non-profit sector where impact matters most.
+
+
 Feel free to explore the SQL notebook and see how data can drive real-world change.
