@@ -39,7 +39,7 @@ I wrote SQL queries to answer two key questions:
 |---------------------|------------------------------------------|
 | **SQL (PostgreSQL)**| Data querying and transformation         |
 | **Jupyter Notebook**| Interactive SQL execution and analysis   |
-| **DataCamp Workspace**| Project environment and dataset access |
+
 
 ---
 
